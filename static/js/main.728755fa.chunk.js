@@ -1,0 +1,2 @@
+(this["webpackJsonpconditional-rendering"]=this["webpackJsonpconditional-rendering"]||[]).push([[0],{3:function(n,e,t){n.exports=t(9)},9:function(n,e,t){"use strict";t.r(e);var r=t(0),o=t.n(r),l=t(2),a=t.n(l);var i=new Date(2019,11,1,18).getHours();console.log(i);var c=function(){return i>12?o.a.createElement("h1",null,"Why are you still working?"):null};a.a.render(o.a.createElement(c,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.728755fa.chunk.js.map

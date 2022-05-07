@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://antiluddite.github.io/csb-wm6y7u/static/js/main.728755fa.chunk.js",
+    "main.js.map": "https://antiluddite.github.io/csb-wm6y7u/static/js/main.728755fa.chunk.js.map",
+    "runtime-main.js": "https://antiluddite.github.io/csb-wm6y7u/static/js/runtime-main.502689d3.js",
+    "runtime-main.js.map": "https://antiluddite.github.io/csb-wm6y7u/static/js/runtime-main.502689d3.js.map",
+    "static/js/2.a63bfbb6.chunk.js": "https://antiluddite.github.io/csb-wm6y7u/static/js/2.a63bfbb6.chunk.js",
+    "static/js/2.a63bfbb6.chunk.js.map": "https://antiluddite.github.io/csb-wm6y7u/static/js/2.a63bfbb6.chunk.js.map",
+    "index.html": "https://antiluddite.github.io/csb-wm6y7u/index.html",
+    "precache-manifest.c06abcbadcf329b8b99b6151d306541f.js": "https://antiluddite.github.io/csb-wm6y7u/precache-manifest.c06abcbadcf329b8b99b6151d306541f.js",
+    "service-worker.js": "https://antiluddite.github.io/csb-wm6y7u/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.502689d3.js",
+    "static/js/2.a63bfbb6.chunk.js",
+    "static/js/main.728755fa.chunk.js"
+  ]
+}
